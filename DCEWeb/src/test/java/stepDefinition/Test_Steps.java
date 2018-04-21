@@ -53,26 +53,6 @@ public class Test_Steps {
 	    throw new PendingException();
 	}
 
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 	
 }
